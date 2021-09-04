@@ -7,8 +7,11 @@ The first two columns - Subject and Activity - are Identifiers.
 The variables remaining are the calculated means and standard deviations of the data sets
 
 tBodyAccMeanX
+
 tBodyAccMeanY
+
 tBodyAccMeanZ
+
 tBodyAccStdX
 tBodyAccStdY
 tBodyAccStdZ
