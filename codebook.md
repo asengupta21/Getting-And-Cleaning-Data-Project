@@ -1,4 +1,5 @@
-**Descriptions**
+**Description**
+
 **Identififiers**
 The first two columns - Subject and Activity - are Identifiers.
 - Subject: the ID of the Subject
